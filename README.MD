@@ -64,5 +64,5 @@ http://localhost:8080/ping
 
 ## Contatos
 
-- Gustavo Fernandez - gustavoffiap@gmail.com
-- Desenvolvedor 2 - desenvolvedor2@email.com
+- Gustavo Fernandez - rm94382
+- Vinicius da Silva Pires - rm96187
